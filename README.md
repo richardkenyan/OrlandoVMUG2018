@@ -5,6 +5,6 @@ This will be updated as best as I can muster, with cleaner code and some further
 
 If you were at the event, feel free to pull and change this as you need.
 
-You'll need to modify it to your liking, so be careful
+You'll need to modify it to your liking, so be careful!
 
 Enjoy!
